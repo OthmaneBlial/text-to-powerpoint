@@ -1,0 +1,3 @@
+PyQt5
+python-pptx
+cx_Freeze
