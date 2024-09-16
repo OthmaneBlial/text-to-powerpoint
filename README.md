@@ -2,6 +2,9 @@
 
 Generate PowerPoint presentations from structured text input with customizable templates.
 
+![image](https://github.com/user-attachments/assets/f81e5ca9-ae17-428d-a394-4c651f795fb7)
+
+
 ## Features
 
 - Convert text to PowerPoint slides
