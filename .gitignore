@@ -21,6 +21,9 @@ var/
 *.egg
 *.manifest
 *.spec
+*.pdf
+*.pptx
+*.sh
 pip-log.txt
 pip-delete-this-directory.txt
 .venv/
